@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Brad Gessler"]
   s.email       = ["brad@bradgessler.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{The fastest way to get code into production  }
+  s.description = %q{Champagne is a server that quite simply runs long-running terminal commands reliably. Chain these commands together and you can build a workflow that tests code and moves it to production.}
 
   s.rubyforge_project = "champagne"
 
