@@ -2,8 +2,8 @@
 
                                                                              *
                                                                               *
-    Champagne                                                *       *       []
-    The fastest way to get code into production               _*    *_       ||
+        Champagne                                            *       *       []
+        The fastest way to get code into production           _*    *_       ||
                                                              |*|    |*|     |* |
                                                              |_|    |_|     |__|
                                                              \*/    \*/     | *|
